@@ -16,5 +16,5 @@ python-library-system/
 
 ├── main.py # 主程序入口
 
-└── library.json # 保存书籍数据的JSON文件
+└── library.json # 保存书籍数据到JSON文件
 
